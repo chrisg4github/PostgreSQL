@@ -1,2 +1,2 @@
 # postgres-sql
-Postgres sql files and images created using SQL Workbench and pgAdmin.
+PostgresSQL files and images created using SQLWorkbench and pgAdmin.
