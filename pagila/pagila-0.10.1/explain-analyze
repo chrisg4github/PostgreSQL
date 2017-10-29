@@ -1,0 +1,3 @@
+put
+EXPLAIN ANALYZE 
+before a SELECT to see what happens

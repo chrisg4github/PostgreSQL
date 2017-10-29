@@ -1,0 +1,18 @@
+nano ~/.bash_profile
+
+move the cursor all the way down on a new line 
+
+copy and paste this line
+
+export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
+
+hit ctrl + c
+
+type y
+
+press enter
+
+run this command:
+
+source ~/.bash_profile
+
