@@ -3,8 +3,9 @@ This folder contains images and files related to PostgresSQL activities and home
 
 **<u>Folders:</u>**
 
-pagila/pagila-activities - postgres class activities files.
-pagila/pagila-activities/pagila-ddl - pagila ddl files.
+**pagila/pagila-activities** - postgres class activities files.
+
+**pagila/pagila-activities/pagila-ddl** - pagila ddl files.
 
 
 
