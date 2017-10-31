@@ -1,5 +1,7 @@
 # PostgreSQL
-This folder contains images and files related to PostgreSQL activities and homework.  
+This folder contains images and files related to PostgreSQL activities and homework.
+
+**Open README_pagila.md in the pagila folder to see the queries and results.**  
 
 **<u>Folders:</u>**
 
