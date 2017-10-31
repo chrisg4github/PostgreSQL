@@ -5,7 +5,7 @@ This folder contains images and files related to PostgreSQL activities and homew
 
 **images** - markdown file results images.
 
-**pagila/pagila-activities** - postgre class activities files.
+**pagila/pagila-activities** - postgres class activities files.
 
 **pagila/pagila-activities/pagila-ddl** - pagila ddl files.
 
