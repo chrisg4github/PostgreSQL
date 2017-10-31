@@ -14,8 +14,8 @@
 ### Create the pagila database in the Public schema
 
 - Start up a console (I use Git-Bash), clone the GitHub repository, and move to the directory holding the pagila sql create files.
-- [GitHub Repository](https://github.com/chrisg4github/PostgresSQL)
-- DDL files are in GitHub repository PostgresSQL/pagila/pagila-activities/pagila-ddl
+- [GitHub Repository](https://github.com/chrisg4github/PostgreSQL)
+- DDL files are in GitHub repository PostgreSQL/pagila/pagila-activities/pagila-ddl
 - Enter > psql -U postgres and enter the password for postgres at the prompt.
 - Run each of the three files from psql as user postgres.
   - \i pagila-schema.sql
